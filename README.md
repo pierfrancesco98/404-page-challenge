@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/pierfrancesco98/404-page-challenge/0710a766315bb0f942bf79ff5b057904f282bb38/Scarecrow.png)
+![screenshot](https://github.com/pierfrancesco98/404-page-challenge/blob/main/404.PNG?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -51,8 +51,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [Html]
 - [Css]
--
-
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
@@ -71,5 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [pisaniwebdesign.com](https://{pisaniwebdesign.com})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@pierfrancesco98](https://{https://github.com/pierfrancesco98})
