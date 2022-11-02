@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not found}</h1>
+<h1 align="center">404 Not found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{pisaniwebdesign.com/pagina/404}">
+    <a href="https://pisaniwebdesign.com/pagina/404">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://devchallenges.io/solutions/8FcgxcYTTL3Z8lj5KPkJ}">
+    <a href="https://https://devchallenges.io/solutions/8FcgxcYTTL3Z8lj5KPkJ">
       Solution
     </a>
     <span> | </span>
@@ -38,12 +38,7 @@
 
 ![screenshot](https://github.com/pierfrancesco98/404-page-challenge/blob/main/404.PNG?raw=true)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -68,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [pisaniwebdesign.com](https://{pisaniwebdesign.com})
-- GitHub [@pierfrancesco98](https://{https://github.com/pierfrancesco98})
+- Website [pisaniwebdesign.com](https://pisaniwebdesign.com)
+- GitHub [@pierfrancesco98](https://https://github.com/pierfrancesco98)
